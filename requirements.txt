@@ -1,0 +1,4 @@
+py-algorand-sdk
+pyTelegramBotAPI
+flask
+gunicorn
